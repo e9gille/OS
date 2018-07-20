@@ -1,12 +1,13 @@
 {
   "name": "os",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "description": "os level utilities",
   "files": [
     "acreconfig.txt",
     "APLSource/OS*"
   ],
   "main": "OS",
+  "projectSpace": "OS",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aplteam/OS.git"
@@ -22,7 +23,7 @@
   },
   "homepage": "https://github.com/aplteam/OS#readme",
   "dependencies": {
-    "apltreeutils": "^4.2.1",
-    "filesanddirs": "^1.8.4"
+    "apltreeutils": "^4.2.4",
+    "filesanddirs": "^1.8.6"
   }
 }
