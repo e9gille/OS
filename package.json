@@ -1,0 +1,28 @@
+{
+  "name": "os",
+  "version": "1.4.5",
+  "description": "os level utilities",
+  "files": [
+    "acreconfig.txt",
+    "APLSource/OS*"
+  ],
+  "main": "OS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplteam/OS.git"
+  },
+  "keywords": [
+    "APL",
+    "os"
+  ],
+  "author": "Kai Jaeger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aplteam/OS/issues"
+  },
+  "homepage": "https://github.com/aplteam/OS#readme",
+  "dependencies": {
+    "apltreeutils": "^4.2.1",
+    "filesanddirs": "^1.8.4"
+  }
+}
